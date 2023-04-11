@@ -1,4 +1,4 @@
-# The-hole-bible
+# The-holy-bible
 
 Style:Minimalist
 Expected public:Families
