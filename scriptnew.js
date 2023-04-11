@@ -3,7 +3,7 @@
 var miVideo;
 var videoActual;
 
-var sources = [src="videos/matthew1.mp4",src="videos/matthew2.mp4"];
+var sources = [src="matthew1.mp4",src="matthew2.mp4"];
 
 function iniciar(){
   videoActual=0;
