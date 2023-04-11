@@ -2,7 +2,7 @@
 var miVideo;
 var videoActual;
 
-var sources = [src="videos/genesis1.mp4"];
+var sources = [src="genesis1.mp4"];
 
 function iniciar(){
   videoActual=0;
